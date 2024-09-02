@@ -1,3 +1,3 @@
-# Example
+# GoToEat
 
-W1ndys-bot 的功能模块编写示例文件
+去吃饭！军训错峰吃饭的错峰提醒
